@@ -1,4 +1,4 @@
-# Demo E-shop
+# Dolejoute gallery server
 
 ## System requirements
   * Node.js
