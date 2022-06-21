@@ -17,3 +17,5 @@
   * npm start - lounch development server
   * npm build - compile app
   * npm run server - lounches demo server
+
+## Dolejoute gallery client (https://github.com/mpetrauskis/dolejoute-client)
